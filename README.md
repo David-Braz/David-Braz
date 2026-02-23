@@ -1,23 +1,55 @@
-# Olá Mundo  
-          
+# David | Software Developer
 
-Hi, my name is David, um entusiasta da tecnologia no auge dos meus 23 anos. Atualmente cursando o segundo ano de Ciência da Computação, mergulho no mundo da programação e do desenvolvimento web. Minha jornada profissional já começou no universo do HelpDesk, mas meu coração bate mais forte quando estou codificando e resolvendo desafios tecnológicos.
+Bacharel em Ciência da Computação (UNIP) | Especialista em Ecossistema Java & Spring Boot
+Engenheiro de Software por formação e solucionador de problemas por natureza. Meu foco é o desenvolvimento de sistemas Back-end de alta performance, onde transformo regras de negócio complexas em APIs escaláveis, seguras e eficientes.
 
-### Sobre Minhas Habilidades:
+Diferente da abordagem acadêmica tradicional, minha trajetória é pautada na resolução de problemas reais. Desenvolvo arquiteturas robustas utilizando o ecossistema Spring, focando em Clean Code, segurança e integração contínua.
 
-- **Linguagens de Programação:** Java, Python, HTML, PHP, C#
+### "Não apenas escrevo código; construo ferramentas que otimizam processos e geram valor real."
+---
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" alt="Java Logo"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="Python Logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
- 
-          
-- **Bancos de Dados:** SQL, MySQL
+### 🛠️ No que venho trabalhando:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MYSQL" />
+* **Sistema de Gestão de Frotas:** Meu projeto de TCC, um ecossistema Web completo desenvolvido com **Java 17 e Spring Boot**, utilizando Spring Security, JPA e JasperReports para controle de abastecimento.
+* **Bolão Copa 2026:** Projeto pessoal em desenvolvimento utilizando **Bootstrap** e lógica de apostas para integração de comunidades.
+* **Aprimoramento em Java:** Foco constante em **Clean Code**, SOLID, IoC/DI e APIs REST seguras.
 
-### Meu Lema na Ciência da Computação:
+---
 
-*"Transformando linhas de código em soluções inovadoras, um byte de cada vez."*
+### 🛠️ Core Tech Stack:
 
-Acredito que a Ciência da Computação vai além de simplesmente programar; é a arte de criar soluções inteligentes para os desafios do mundo real. Estou ansioso para aprender, colaborar e construir algo extraordinário.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Seja bem-vindo ao meu espaço digital, onde compartilho minhas experiências, projetos e descobertas no vasto universo da tecnologia. Vamos codificar o futuro juntos! 🚀
+---
+
+### 💻 No que venho trabalhando:
+
+* **Sistema de Gestão de Frotas:** Projeto de conclusão de curso. Ecossistema Web completo em **Java 17 + Spring Boot**, integrando Spring Security, JPA e JasperReports para controle logístico.
+* **Bolão Copa 2026:** Desenvolvimento Front-end com **Bootstrap** e integração de regras de negócio para apostas esportivas.
+* **APIs RESTful:** Foco em arquitetura de microserviços, Injeção de Dependência (IoC) e segurança com OAuth2/JWT.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Braz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api-top-langs/?username=David-Braz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+---
+
+### 📫 Vamos nos conectar?
+
+* **Localização:** Mairinque - SP 📍
+* **Foco Atual:** Aperfeiçoamento em Spring Boot e busca pela primeira oportunidade como Dev Java.
+* **Línguas:** Português (Nativo) e Inglês (Em constante prática diária 🇺🇸).
+
+> *"Transformando linhas de código em soluções inovadoras, um byte de cada vez."*
