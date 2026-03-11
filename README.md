@@ -38,10 +38,25 @@ Diferente da abordagem acadêmica tradicional, minha trajetória é pautada na r
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Braz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api-top-langs/?username=David-Braz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Braz&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Mahmoud's GitHub streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Braz&layout=compact&theme=onedark&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Braz&theme=onedark" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Braz&theme=onedark&hide_border=true&area=true" alt="GitHub Activity Graph" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg" alt="Snake Animation" />
+</p>
 
 
 ---
